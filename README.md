@@ -50,7 +50,7 @@ Ensure you have the following installed:
 
 ```
 git clone https://github.com/GSA/Customer-Data-Survey-Analysis.git
-cd customer-data-analysis
+cd Customer-Data-Survey-Analysis
 ```
 
 **2. Create a virtual environment**
