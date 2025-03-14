@@ -40,11 +40,11 @@ customer-data-analysis/
 
 ## Setup Instructions
 Prerequisites & Requirements
-Ensure you have the following installed:
-Python (>=3.8)
-Git
-Virtual Environment (e.g., venv, conda)
-Important packages/frameworks utilized include Gensim, Numpy, Pandas, spaCy, NLTK, pyLDAvis, tqdm, SentimentIntensityAnalyzer, matplotlib, TextBlob, seaborn
+Ensure you have the following installed:  
+- Python (>=3.8)  
+- Git  
+- Virtual Environment (e.g., venv, conda)  
+- Important packages/frameworks utilized include [Gensim](https://pypi.org/project/gensim/), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [spaCy](https://github.com/explosion/spaCy), [NLTK](https://www.nltk.org/), [pyLDAvis](https://pypi.org/project/pyLDAvis/), [tqdm](https://github.com/tqdm/tqdm), [matplotlib](https://matplotlib.org/), [TextBlob](https://textblob.readthedocs.io/en/dev/), [seaborn](https://seaborn.pydata.org/), [sklearn](https://scikit-learn.org/stable/)
 ### Installation Steps
 **1. Clone the repository**
 
