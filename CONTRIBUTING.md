@@ -28,7 +28,7 @@ git push origin feature/your-feature-name
 
 ### Our team will _review & merge_ once approved.
 ## Further inquiry
-We encourage you to read this project's CONTRIBUTING policy (you are here), its LICENSE, and its README and adhere to its CODE_OF_CONDUCT.
+We encourage you to read this project's CONTRIBUTING policy (you are here), its [LICENSE](https://github.com/GSA/Customer-Data-Survey-Analysis/blob/main/LICENSE.md), and its README and adhere to its CODE_OF_CONDUCT.
 If you have any questions or want to read more, check out the [GSA Open Source Policy](https://open.gsa.gov/oss-policy/) and [Guidance repository](https://github.com/GSA/open-source-policy), or just shoot us an email.
 
 ## Public domain
