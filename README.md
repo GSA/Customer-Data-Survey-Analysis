@@ -22,7 +22,7 @@ For any questions, please reach out to the project maintainers or open an issue.
 
 ## Repository Layout
 ```
-Customer-Survey-Data-Analysis/  
+Customer-Data-Survey-Analysis/  
 │── data/			# Raw & processed datasets (DO NOT COMMIT sensitive data)  
 │── notebooks/			# Jupyter Notebooks for analysis & exploration  
 │── src/			# Python scripts for data processing & modeling  
