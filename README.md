@@ -45,17 +45,23 @@ Important packages/frameworks utilized include Gensim, Numpy, Pandas, spaCy, NLT
 ### Installation Steps
 **1. Clone the repository**
 
+```
 git clone https://github.com/GSA/customer-data-analysis.git
 cd customer-data-analysis
+```
 
 **2. Create a virtual environment**
 
+```
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
 
 **3. Install dependencies**
 
+```
 pip install -r requirements.txt
+```
 
 ## Key Features
 **Data Cleaning & Processing:** Scripts for handling missing values, text processing, and standardization. 
@@ -75,21 +81,29 @@ Store sensitive configurations (e.g., API keys, database credentials) in **envir
 
 ***Instead of writing credentials directly in your code like this:***
 
+```
 DB_PASSWORD = "SuperSecret123"  # ❌ BAD PRACTICE
+```
 
 ***Use environment variables:***
 
+```
 import os
 DB_PASSWORD = os.getenv("DB_PASSWORD")  # ✅ GOOD PRACTICE
+```
 
 ***Then, store the credential securely in an .env file or secret management system:***
 
+```
 DB_PASSWORD=SuperSecret123
+```
 
 ***And load it using a library like dotenv:***
 
+```
 from dotenv import load_dotenv
 load_dotenv()
+```
 
 ## Contribution Guidelines
 See the [Contribution Guidelines](docs/CONTRIBUTING.md) file for more information.
