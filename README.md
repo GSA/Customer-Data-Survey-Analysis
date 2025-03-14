@@ -49,7 +49,7 @@ Ensure you have the following installed:
 **1. Clone the repository**
 
 ```
-git clone https://github.com/GSA/customer-data-analysis.git
+git clone https://github.com/GSA/Customer-Data-Survey-Analysis.git
 cd customer-data-analysis
 ```
 
