@@ -32,6 +32,7 @@ customer-data-analysis/
 │── tests/			# Unit tests for data pipelines & script  
 │── .github/			# GitHub workflows (CI/CD, issue templates, PR templates)  
 │── requirements.txt		# List of dependencies  
+│── CONTRIBUTING.md		# Contribution Guidelines
 │── README.md			# Project overview & setup guide  
 │── LICENSE			# License information
 ```
