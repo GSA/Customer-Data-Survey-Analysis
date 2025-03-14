@@ -21,6 +21,7 @@ Dionne Cochran
 For any questions, please reach out to the project maintainers or open an issue. 
 
 ## Repository Layout
+```
 customer-data-analysis/  
 │── data/			# Raw & processed datasets (DO NOT COMMIT sensitive data)  
 │── notebooks/			# Jupyter Notebooks for analysis & exploration  
@@ -33,6 +34,7 @@ customer-data-analysis/
 │── requirements.txt		# List of dependencies  
 │── README.md			# Project overview & setup guide  
 │── LICENSE			# License information
+```
 
 
 ## Setup Instructions
