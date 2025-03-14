@@ -108,10 +108,10 @@ load_dotenv()
 ```
 
 ## Contribution Guidelines
-See the [Contribution Guidelines](docs/[CONTRIBUTING.md](https://github.com/GSA/Customer-Data-Survey-Analysis/blob/main/CONTRIBUTING.md)) file for more information.
+See the [Contribution Guidelines](docs/[CONTRIBUTING.md](https://github.com/GSA/Customer-Data-Survey-Analysis/blob/main/CONTRIBUTING.md) file for more information.
 
 ## License
-See the [LICENSE](docs/[LICENSE.md](https://github.com/GSA/Customer-Data-Survey-Analysis/blob/main/LICENSE.md)) file for details.
+See the [LICENSE](docs/[LICENSE.md](https://github.com/GSA/Customer-Data-Survey-Analysis/blob/main/LICENSE.md) file for details.
 
 
 
