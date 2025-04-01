@@ -1,0 +1,256 @@
+{
+    "Dataset Summary": {
+        "Total Rows": 10289,
+        "Missing Values": 0,
+        "Duplicate Entries": 0,
+        "Average Text Length": 45.332199436291184,
+        "Min Text Length": 1,
+        "Max Text Length": 1703
+    },
+    "Top Words": [
+        [
+            "use",
+            4557
+        ],
+        [
+            "code",
+            3013
+        ],
+        [
+            "write",
+            2769
+        ],
+        [
+            "function",
+            2703
+        ],
+        [
+            "give",
+            2531
+        ],
+        [
+            "provide",
+            2275
+        ],
+        [
+            "return",
+            1881
+        ],
+        [
+            "make",
+            1846
+        ],
+        [
+            "create",
+            1753
+        ],
+        [
+            "follow",
+            1743
+        ],
+        [
+            "take",
+            1617
+        ],
+        [
+            "need",
+            1592
+        ],
+        [
+            "value",
+            1581
+        ],
+        [
+            "include",
+            1555
+        ],
+        [
+            "name",
+            1534
+        ],
+        [
+            "answer",
+            1508
+        ],
+        [
+            "one",
+            1412
+        ],
+        [
+            "list",
+            1388
+        ],
+        [
+            "datum",
+            1386
+        ],
+        [
+            "new",
+            1378
+        ]
+    ],
+    "Top Bigrams": [
+        [
+            "('code', 'snippet')",
+            1189
+        ],
+        [
+            "('give', 'code')",
+            540
+        ],
+        [
+            "('possible', 'tell')",
+            361
+        ],
+        [
+            "('option', 'yes')",
+            332
+        ],
+        [
+            "('write', 'function')",
+            295
+        ],
+        [
+            "('function', 'return')",
+            267
+        ],
+        [
+            "('task', 'implement')",
+            262
+        ],
+        [
+            "('search', 'result')",
+            256
+        ],
+        [
+            "('make', 'sure')",
+            252
+        ],
+        [
+            "('answer', 'question')",
+            250
+        ],
+        [
+            "('yes', 'possible')",
+            250
+        ],
+        [
+            "('function', 'take')",
+            249
+        ],
+        [
+            "('please', 'provide')",
+            247
+        ],
+        [
+            "('task', 'complete')",
+            201
+        ],
+        [
+            "('web', 'search')",
+            179
+        ],
+        [
+            "('string', 'represent')",
+            172
+        ],
+        [
+            "('need', 'implement')",
+            167
+        ],
+        [
+            "('social', 'medium')",
+            153
+        ],
+        [
+            "('implement', 'function')",
+            151
+        ],
+        [
+            "('function', 'call')",
+            147
+        ]
+    ],
+    "Top Trigrams": [
+        [
+            "('give', 'code', 'snippet')",
+            509
+        ],
+        [
+            "('option', 'yes', 'possible')",
+            250
+        ],
+        [
+            "('yes', 'possible', 'tell')",
+            250
+        ],
+        [
+            "('web', 'search', 'result')",
+            163
+        ],
+        [
+            "('hypothesis', 'entail', 'premise')",
+            123
+        ],
+        [
+            "('task', 'complete', 'implementation')",
+            93
+        ],
+        [
+            "('make', 'sure', 'cite')",
+            82
+        ],
+        [
+            "('wow', 'query', 'port')",
+            82
+        ],
+        [
+            "('current', 'date', 'instruction')",
+            81
+        ],
+        [
+            "('date', 'instruction', 'use')",
+            81
+        ],
+        [
+            "('instruction', 'use', 'provide')",
+            81
+        ],
+        [
+            "('use', 'provide', 'web')",
+            81
+        ],
+        [
+            "('provide', 'web', 'search')",
+            81
+        ],
+        [
+            "('search', 'result', 'write')",
+            81
+        ],
+        [
+            "('result', 'write', 'comprehensive')",
+            81
+        ],
+        [
+            "('write', 'comprehensive', 'reply')",
+            81
+        ],
+        [
+            "('comprehensive', 'reply', 'give')",
+            81
+        ],
+        [
+            "('sure', 'cite', 'result')",
+            81
+        ],
+        [
+            "('cite', 'result', 'use')",
+            81
+        ],
+        [
+            "('result', 'use', 'numberurl')",
+            81
+        ]
+    ]
+}
