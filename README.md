@@ -1,9 +1,9 @@
-# Customer Data & Survey Analysis Repository 
+# Voice of the Customer (VoC) Team Repository 
 
 ## 📌 Overview
-Welcome to the Customer Data & Survey Analysis repository. This is a python based code repository containing code, datasets, and documentation for analyzing customer feedback, survey responses, and other related data. It is structured to support data cleaning, exploratory analysis, visualization, and advanced modeling (e.g., natural language processing (NLP), predictive modeling).
+Welcome to the Voice of the Customer (VoC) team repository. This is a python based code repository containing code, datasets, and documentation for analyzing customer feedback, survey responses, and other related data. It is structured to support data cleaning, exploratory analysis, visualization, and advanced modeling (e.g., natural language processing (NLP), predictive modeling).
 
-## Customer Data and Survey Team CX Background 
+## VoC Team CX Background 
 Purpose for the creation of this code repository is to analyze open text response survey data for recurring GSA surveys such as the Employee Pulse Survey, Customer Loyalty Survey (CLS/ISS), Internal Partner Satisfaction Survey (IPSS) and website feedback. We aim to equip users with a suite of statistical methods for analyzing survey data, including descriptive statistics, data visualization, natural language processing and text analysis tools for thematic analysis and sentiment analysis. We aim to make this tool accessible and user-friendly, even for those with minimal data science and coding experience.
 
 ## Project Team
@@ -22,7 +22,7 @@ For any questions, please reach out to the project maintainers or open an issue.
 
 ## Repository Layout
 ```
-Customer-Data-Survey-Analysis/  
+Voice-of-the-Customer-Team-Analysis/  
 │── data/			# Raw & processed datasets (DO NOT COMMIT sensitive data)  
 │── notebooks/			# Jupyter Notebooks for analysis & exploration  
 │── src/			# Python scripts for data processing & modeling  
@@ -49,8 +49,8 @@ Ensure you have the following installed:
 **1. Clone the repository**
 
 ```
-git clone https://github.com/GSA/Customer-Data-Survey-Analysis.git
-cd Customer-Data-Survey-Analysis
+git clone https://github.com/GSA/Voice-of-the-Customer-Team.git
+cd Voice-of-the-Customer-Team
 ```
 
 **2. Create a virtual environment**
@@ -109,10 +109,10 @@ load_dotenv()
 ```
 
 ## Contribution Guidelines
-See the [Contribution Guidelines](https://github.com/GSA/Customer-Data-Survey-Analysis/blob/main/CONTRIBUTING.md) file for more information.
+See the [Contribution Guidelines](https://github.com/GSA/Voice-of-the-Customer-Team/blob/main/CONTRIBUTING.md) file for more information.
 
 ## License
-See the [LICENSE](https://github.com/GSA/Customer-Data-Survey-Analysis/blob/main/LICENSE.md) file for details.
+See the [LICENSE](https://github.com/GSA/Voice-of-the-Customer-Team/blob/main/LICENSE.md) file for details.
 
 
 
