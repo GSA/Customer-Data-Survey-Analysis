@@ -25,7 +25,6 @@ For any questions, please reach out to the project maintainers or open an issue.
 Voice-of-the-Customer-Team-Analysis/  
 │── data/			# Raw & processed datasets (DO NOT COMMIT sensitive data)  
 │── notebooks/			# Jupyter Notebooks for analysis & exploration  
-│── src/			# Python scripts for data processing & modeling  
 │── reports/			# Summary reports & visualizations  
 │── docs/			# Documentation & guidelines  
 │── presentations/		# Slide decks and PDF templates  
