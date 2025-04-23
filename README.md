@@ -9,9 +9,10 @@ Purpose for the creation of this code repository is to analyze open text respons
 ## Project Team
 ### Maintainers
 Kai Cobb  
-Jun Zhong
+
 ### Contributors
 Genevieve Christensen  
+Jun Zhong  
 Camille Tucker  
 Liz Brodd  
 Katherine Petway  
